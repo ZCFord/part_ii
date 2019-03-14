@@ -195,7 +195,7 @@ print(lo_av_2)
 # PLOTTING
 ##########
 
-plt.figure(figsize=(10,8))
+plt.figure(figsize=(16,8))
 x = np.arange(4,96,1)
 plt.plot(firstbilayer, label = '{} Bilayer Thickness'.format(args.fl), color = 'blue', linewidth = 3)
 plt.plot(x, first_av_run, label = '10ns Running Average', color = 'blue', linewidth = 2, linestyle = 'dashed')
