@@ -1,0 +1,2 @@
+TREK-2 - not chimera!
+perl ~/Documents/PART_II/USEFUL/scripts/prepare_pdb.pl md-c.pdb 261 72 POP >& mdord.pdb
