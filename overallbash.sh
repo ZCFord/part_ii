@@ -6,3 +6,4 @@ python ~/Documents/PART_II/USEFUL/scripts/apl-overall.py
 
 python ~/Documents/PART_II/USEFUL/scripts/protein_position.py
 
+python ~/Documents/PART_II/USEFUL/scripts/FEZ-overall.py
